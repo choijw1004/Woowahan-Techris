@@ -35,13 +35,13 @@ MVC 패턴을 학습하다가 발견한 Smalltalk과 Pharo로 재현한 테트�
 --- 
 ## 개발 과정
 
-[[Techris] 1. 요구사항 분석](https://choijw1004.github.io/posts/41/)
-[[Techris] 2. 개발 환경 세팅](https://choijw1004.github.io/posts/42/)
-[[Techris] 3. Deep Dive into Smalltalk](https://choijw1004.github.io/posts/43/)
-[[Techris] 4. Techris를 설계해보자](https://choijw1004.github.io/posts/44/)
-[[Techris] 5. Techris의 도메인 로직](https://choijw1004.github.io/posts/45/)
-[[Techris] 6. Techris의 UI](https://choijw1004.github.io/posts/46/)
-[[Techris] 7. Techris의 배포](https://choijw1004.github.io/posts/47/)
+- [[Techris] 1. 요구사항 분석](https://choijw1004.github.io/posts/41/)
+- [[Techris] 2. 개발 환경 세팅](https://choijw1004.github.io/posts/42/)
+- [[Techris] 3. Deep Dive into Smalltalk](https://choijw1004.github.io/posts/43/)
+- [[Techris] 4. Techris를 설계해보자](https://choijw1004.github.io/posts/44/)
+- [[Techris] 5. Techris의 도메인 로직](https://choijw1004.github.io/posts/45/)
+- [[Techris] 6. Techris의 UI](https://choijw1004.github.io/posts/46/)
+- [[Techris] 7. Techris의 배포](https://choijw1004.github.io/posts/47/)
 
 ## 실행 파일로 플레이 (Mac 전용)
 
